@@ -1,0 +1,24 @@
+body {
+ /* border: 2px solid black;*/
+  /*padding: 25px;*/
+  background-image: url("pic/login.webp");
+  background-repeat: no-repeat;
+  background-size: 1200px 650px;
+   font-family: 'Dancing Script', cursive;
+}
+#Sign-Up{
+border: solid;
+background: lightgrey;
+text-align: center;
+border-size: 60px 20px;
+border-width: thin;
+width: 200px ;
+height: 500px ;
+font-weight: bold;
+ position: absolute;
+left : 900px;
+}
+.btn{
+	background: black;
+	color:white;
+	padding: 6px 15px;

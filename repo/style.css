@@ -1,13 +1,8 @@
-/*body{
-	background: #d8bead;
-}
-*/
 body{
-/*	background-image:url("pic/grr.jpg");*/
-/*background: #d8bead;*/
+
 	text-align: center;
 	margin: auto;
-font-family: 'Dancing Script', cursive;
+    font-family: 'Dancing Script', cursive;
 }
 #title{
 	text-align: left;
@@ -26,7 +21,7 @@ font-size: 30px;
   background-color:black;
   color:white;
   padding: 10px 30px;
-  text-align: center;
+  text-align: center;s
   font-size: 10px;
   margin: 4px 2px;
   
@@ -57,14 +52,18 @@ font-size: 30px;
 	size: 10px;
 }
 input {
-  width: 2%;
+  width: 4%;
 }
 .xx{
 	font-size: 20px;
 	font-weight: bold;
 }
+.img:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
 .remove{
 	background: #b30000;
 	color:white;
 	padding: 3px 3px;
-
+}
