@@ -1,0 +1,70 @@
+/*body{
+	background: #d8bead;
+}
+*/
+body{
+/*	background-image:url("pic/grr.jpg");*/
+/*background: #d8bead;*/
+	text-align: center;
+	margin: auto;
+font-family: 'Dancing Script', cursive;
+}
+#title{
+	text-align: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+.item-title{
+font-size: 30px;
+}
+.head1{
+	border: solid;
+	font-size: 50px;
+	background: #d8bead;
+}
+.btn { 
+  background-color:black;
+  color:white;
+  padding: 10px 30px;
+  text-align: center;
+  font-size: 10px;
+  margin: 4px 2px;
+  
+}
+/*.btn:hover {
+  background: lightgrey;
+  color:black;
+  border:  pink;
+  border-radius: 20px;
+}
+*/
+#end{
+	border: solid;
+	font-size: 20px;
+	background: #d8bead;
+
+}
+
+#conect{
+	font-size: 30px;
+}
+.button{
+	background: black;
+	color:white;
+	padding: 10px 40px;
+}
+.cart-size-input{
+	size: 10px;
+}
+input {
+  width: 2%;
+}
+.xx{
+	font-size: 20px;
+	font-weight: bold;
+}
+.remove{
+	background: #b30000;
+	color:white;
+	padding: 3px 3px;
+
