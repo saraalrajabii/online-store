@@ -23,7 +23,7 @@ var addToCartButtons = document.getElementsByClassName('btn')
 
 // buy now button
 function buynawClicked() {
-    alert('Thanks for the purchase. You will receive your orders after four days')
+    alert('Thanks for your orders. You will receive your orders after four days')
     var cartItems = document.getElementsByClassName('cart-items')[0]
     while (cartItems.hasChildNodes()) {
         cartItems.removeChild(cartItems.firstChild)
