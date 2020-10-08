@@ -26,13 +26,7 @@ font-size: 30px;
   margin: 4px 2px;
   
 }
-/*.btn:hover {
-  background: lightgrey;
-  color:black;
-  border:  pink;
-  border-radius: 20px;
-}
-*/
+
 #end{
 	border: solid;
 	font-size: 20px;
@@ -47,6 +41,9 @@ font-size: 30px;
 	background: black;
 	color:white;
 	padding: 10px 40px;
+}
+.cart-quantity-input{
+	size: 10px;
 }
 .cart-size-input{
 	size: 10px;
